@@ -29,6 +29,8 @@ null,
 {"id":27,"expanded":false,"name":"penjara 1.1","order":27,"parentId":23,"scrollX":832,"scrollY":640},
 {"id":28,"expanded":true,"name":"pelatihan penjelajah","order":28,"parentId":0,"scrollX":534,"scrollY":323.5},
 {"id":29,"expanded":true,"name":"pelatihan","order":29,"parentId":28,"scrollX":534,"scrollY":323.5},
-{"id":30,"expanded":false,"name":"Cerita Awal","order":31,"parentId":0,"scrollX":534,"scrollY":300.5},
-{"id":31,"expanded":false,"name":"hall pelatihan","order":30,"parentId":29,"scrollX":534,"scrollY":300.5}
+{"id":30,"expanded":false,"name":"Cerita Awal","order":33,"parentId":0,"scrollX":534,"scrollY":300.5},
+{"id":31,"expanded":true,"name":"hall pelatihan","order":30,"parentId":29,"scrollX":534,"scrollY":323.5},
+{"id":32,"expanded":false,"name":"ruang pelatihan 1.1","order":31,"parentId":31,"scrollX":534,"scrollY":323.5},
+{"id":33,"expanded":false,"name":"ruang pelatihan 2.1","order":32,"parentId":31,"scrollX":534,"scrollY":323.5}
 ]
